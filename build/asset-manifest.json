@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-course/static/css/main.eb8ac2da.css",
+    "main.js": "/git-course/static/js/main.beadfb55.js",
+    "index.html": "/git-course/index.html",
+    "main.eb8ac2da.css.map": "/git-course/static/css/main.eb8ac2da.css.map",
+    "main.beadfb55.js.map": "/git-course/static/js/main.beadfb55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8ac2da.css",
+    "static/js/main.beadfb55.js"
+  ]
+}
