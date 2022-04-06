@@ -1,4 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
+
 const todoSlice = createSlice({
   name: 'todos',
   initialState: {
@@ -6,8 +7,9 @@ const todoSlice = createSlice({
   },
   reducers: {
     addTodo(state, action) {
-      console.log(state);
-      console.log(action);
+      // console.log(state);
+      // console.log(action);
+
       state.todos.push({
         id: new Date().toISOString(),
         text: action.payload.text,
